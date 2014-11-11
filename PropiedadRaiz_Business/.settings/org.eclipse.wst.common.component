@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PropiedadRaiz_Business">
+        <wb-resource deploy-path="/" source-path="/src"/>
+        <dependent-module archiveName="PropiedadRaiz_Data.jar" deploy-path="/" handle="module:/resource/PropiedadRaiz_Data/PropiedadRaiz_Data">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

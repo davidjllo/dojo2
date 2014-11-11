@@ -1,0 +1,13 @@
+Esquema Base de Datos
+
+Collection:
+	Propiedades
+		id
+		nombre
+		valor
+		descripcion
+		ubicacion
+		adminstracion
+		predial
+		venta
+		
